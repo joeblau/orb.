@@ -908,6 +908,12 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   }
 }
 @media (max-width: 767px) {
+<<<<<<< HEAD
+=======
+  .header-13-sub > div > .container {
+    padding-top: 200px;
+  }
+>>>>>>> 49d9ce7fd91e3103a34d0e832ec4c57893065df4
   .header-13-sub.v-center,
   .header-13-sub .v-center {
     -webkit-box-sizing: border-box;
@@ -1008,7 +1014,11 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
     padding-top: 90px;
   }
   .header-13-sub > div > .container {
+<<<<<<< HEAD
     padding-top: 180px;
+=======
+    padding-top: 220px;
+>>>>>>> 49d9ce7fd91e3103a34d0e832ec4c57893065df4
   }
   .header-13-sub .col-sm-5.col-sm-offset-1,
   .header-13-sub .col-sm-4.offset-1 {
@@ -1034,7 +1044,11 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 .content-4 h3 {
   font-size: 30px;
   font-weight: normal;
+<<<<<<< HEAD
   color: #2c3e50;
+=======
+  color: #222222;
+>>>>>>> 49d9ce7fd91e3103a34d0e832ec4c57893065df4
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-bottom: 24px;
   font-weight: 300;
@@ -1051,7 +1065,11 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
   margin: 0 0 13px;
   font-size: 24px;
   font-weight: normal;
+<<<<<<< HEAD
   color: #34495e;
+=======
+  color: #222222;
+>>>>>>> 49d9ce7fd91e3103a34d0e832ec4c57893065df4
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 500;
   text-transform: none;
@@ -1059,7 +1077,11 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 .content-4 .features p {
   font-size: 16px;
   font-weight: normal;
+<<<<<<< HEAD
   color: #7f8c8d;
+=======
+  color: #FFFFFF;
+>>>>>>> 49d9ce7fd91e3103a34d0e832ec4c57893065df4
 }
 .content-4 .features > [class*="col-sm-"] {
   position: relative;
@@ -1091,8 +1113,13 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
  * Footer 12 stylesheet
  * */
 .footer-12 {
+<<<<<<< HEAD
   padding-top: 110px;
   padding-bottom: 110px;
+=======
+  padding-top: 50px;
+  padding-bottom: 50px;
+>>>>>>> 49d9ce7fd91e3103a34d0e832ec4c57893065df4
   text-align: center;
   font-size: 84.3px;
   font-weight: normal;
@@ -1120,10 +1147,17 @@ body > .navbar-collapse .navbar-search .btn-primary:hover {
 }
 @media (min-width: 1200px) {
   .footer-12 {
+<<<<<<< HEAD
     font-size: 84px;
     font-weight: normal;
     color: #F39C12;
     font-weight: 800;
+=======
+    font-size: 42px;
+    font-weight: normal;
+    color: #F39C12;
+    font-weight: 400;
+>>>>>>> 49d9ce7fd91e3103a34d0e832ec4c57893065df4
   }
 }
 @media (max-width: 1199px) {
