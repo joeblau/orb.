@@ -25,6 +25,7 @@ a {
   transition: color 0.25s, background 0.25s;
 }
 a.stores {
+  padding: 0 10px 0 10px;
   line-height: 6;
 }
 a:hover {
